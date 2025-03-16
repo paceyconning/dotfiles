@@ -1,0 +1,47 @@
+* {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+window#waybar {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    padding: 2px 0;
+}
+
+* {
+    padding: 0 4px;
+    margin: 0;
+}
+
+#tray {
+    color: #E6CCFF;
+    background-color: #3D0057;
+}
+
+#pulseaudio {
+    color: #E6CCFF;
+    background-color: #3D0057;
+}
+
+#cpu {
+    color: #E6CCFF;
+    background-color: #3D0057;
+}
+
+#memory {
+    color: #E6CCFF;
+    background-color: #3D0057;
+}
+
+#clock {
+    color: #E6CCFF;
+    background-color: #3D0057;
+}
+
+#cpu:hover,
+#memory:hover,
+#clock:hover,
+#pulseaudio:hover {
+    background-color: #4A006A;
+}
