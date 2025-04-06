@@ -7,6 +7,8 @@
     │   ├── hyprpaper.conf
     │   ├── keybind
     │   └── xdg-portal-hyprland
+    ├── pipewire
+    │   └── pipewire.conf
     └── waybar
         ├── config
         └── style.css
