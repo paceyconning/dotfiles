@@ -1,2 +1,2 @@
 /dev/sdc1		/mnt/storage	ntfs		rw,defaults,umask=007,uid=1000,gid=984	0 1
-//ipv4/vault	/mnt/vault	cifs		vers=3.0,user=,password=,uid=1000,gid=1000,x-systemd.automount	0 0
+//ipv4/vault	/mnt/vault	    cifs		vers=3.0,user=,password=,uid=1000,gid=1000,x-systemd.automount	0 0
